@@ -6,7 +6,7 @@
 ## Introdução
 O objetivo deste projeto é explorar os dados referentes aos acidentes de trânsito, com e sem vítimas, no município de Recife no ano de 2018. 
 
-Este projeto está dividido em três partes:
+Este projeto está dividido em 4 partes:
 
 - Obtenção dos dados
 - Pré-processamento dos dados
